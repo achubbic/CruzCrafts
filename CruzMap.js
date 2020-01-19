@@ -73,7 +73,6 @@ class CruzMap extends Component {
         {this.displayMarkers()}
         <Marker position={{ lat: 36.962421, lng: -122.023331 }} />
       </Map>
-      <button>Heo</button>
     );
   }
 }
@@ -88,3 +87,4 @@ const mapStyles = {
   width: "100%",
   height: "100%"
 };
+
